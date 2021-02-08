@@ -2,6 +2,6 @@
 
 Full-Stack Developer, currently working at SOAINT Perú as a Consultant. 
 
-- 🌱 I’m currently learning lots of things! Not uploading to Github, though. Sometimes I do.
-- 👯 I’m looking to collaborate with developers for a Podcast and YouTube project.
-- 📫 How to reach me: Visit my website: [Guía del Programador](https://guia-del-programador.com/).
+- 🌱 I’m currently learning lots of things! Not uploading to Github, though. Sometimes I do. If it's iOS, everything is uploaded to private Bitbucket's repositories.
+- 👯 I’m looking to collaborate with developers for a Podcast.
+- 📫 How to reach me: Visit my Instagram: [IG](https://www.instagram.com/stephcoach.swift/).
